@@ -42,5 +42,5 @@ This is a **backend service** for scoring leads based on product/offer context a
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/GovardhanShemane/lead-scoring-backend/tree/main>
 cd lead-scoring-backend
