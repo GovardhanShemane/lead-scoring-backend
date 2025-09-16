@@ -99,7 +99,7 @@ Response Example:
   }
 ]
 
-5. Export Results as CSV (Optional)
+5. Export Results as CSV 
 GET: /api/results/export
 Downloads a CSV file of scored leads.
 
