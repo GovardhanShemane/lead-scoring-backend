@@ -1,5 +1,5 @@
 # lead-scoring-backend
-This is a **backend service** for scoring leads based on product/offer context and prospect data using **rule-based logic** and **AI reasoning**.  
+This is a **backend service** for scoring leads on product/offer context and prospect data using **rule-based logic** and **AI reasoning**.  
 
 ---
 
